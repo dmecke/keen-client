@@ -1,0 +1,1 @@
+This is a simple mobile website which enables the user to save keen.io collections and send events. It uses localStorage to persist the collections and the settings.
